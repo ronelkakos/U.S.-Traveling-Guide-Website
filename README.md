@@ -1,6 +1,6 @@
 # U.S. Traveling Guide Website
 
-(Created and finished around early March)
+(Created and finished around early March 2024)
 
 My first project in a JavaScript course, where I added JavaScript functions and elements throughout an HTML website that I created about a guide to Traveling and Vacationing across certain cities in the U.S. I created a guide on traveling to New York City, Orlando, and Las Vegas. I added JavaScript functions such as a budget calculator, where you can input how much it'll cost for certain categories for the trip along with tax being calculated. I also added a JavaScript selection that let's you pick your find activities selections, and it'll give you places to visit. I added images and designed throughout the website. Enjoy reading the guide on my site.
 
