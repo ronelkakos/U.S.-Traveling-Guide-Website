@@ -1,0 +1,42 @@
+/* CSS Document for Project 1
+Ronel Kakos
+ITWP 1100
+File: styleofproject1.css
+*/
+
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+nav {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+body {
+    background-color:rgb(226, 239, 245);
+    color:midnightblue;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 10px;
+}
+
+.city-images {
+    display: flex;
+}
+
+.city-images img {
+    width: 30%; 
+    margin: 0 30px; 
+}
